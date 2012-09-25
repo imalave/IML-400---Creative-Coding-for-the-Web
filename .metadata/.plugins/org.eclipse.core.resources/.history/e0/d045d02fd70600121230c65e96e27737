@@ -1,0 +1,129 @@
+
+<HTML>
+<HEAD>
+<TITLE>IML: Overview</TITLE>
+</HEAD>
+
+
+<BODY BGCOLOR="#623805" TEXT="#000000" LINK="#EBB300" ALINK="#EBB300" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" BACKGROUND="http://www.spacetweaks.net/graphics/backgrounds/marble2/marble_138.jpg" VLINK="#9C0000">
+
+   
+<!-- QUICK LINKS TABLE --> 
+<div id="container" style="width:600px">
+
+<div id="header" style="background-color:#F9EFE5; height:75px;vertical-align:middle;">
+<img style="float:left" src="http://sait.usc.edu/sor/_assets/i/monogram.gif"/>
+
+<h1 style="margin-bottom:0;"><center>Overview</center></h1>
+
+
+</div>
+
+ 
+<div id="quicklinks" style="float:left; width:94px; height:300px; left:10px; font-size:8pt; font-family:Geneva,Helvetica,Arial; >
+    
+    <FONT SIZE="1" FACE="Geneva,Helvetica,Arial" COLOR="#EBB300">
+    
+    <p>QuickLinks</p>
+    <hr noshade size="1" width="90" align=left color="9C000A">
+
+    <p><a href="overview.html">Overview</a></p>
+    <hr noshade size="1" width="90" align=left color="9C000A">
+    
+    <p><a href="usage.html">Usage</a></p>
+    <hr noshade size="1" width="90" align=left color="9C000A">
+
+    <p><a href="technology.html">Technology</p>
+    <hr noshade size="1" width="90" align=left color="9C000A">
+
+    <p><a href="popsites.html">Popular Sites</p>
+    <hr noshade size="1" width="90" align=left color="9C000A">
+
+    <p><a href="bigevents.html">Big Events</p>
+    <hr noshade size="1" width="90" align=left color="9C000A">
+
+    </div> 
+<div id="content" style="background-color:#ffffff;height:300px;width:200px;float:left;">
+<ul>
+<li> one</li>
+<li> two</li>
+<li> three </li>
+</div>
+
+<div id="content" style="background-color:#ffffff;height:300px;width:306px;float:left;">
+Content goes here</div>
+
+ 
+<!-- BODY TABLE ------------------------------------------------ BODY TABLE -->
+  
+  
+  
+<!-- USCweb Footer -->
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="601">
+  
+<!-- FOOTER SPACER ROW -->
+
+  <TR VALIGN="TOP"> 
+    <TD BGCOLOR="#990000"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_red.gif" WIDTH="1" HEIGHT="12"></TD>
+    <TD COLSPAN="3"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="599" HEIGHT="12" BORDER="0"></TD>
+	<TD BGCOLOR="#990000"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_red.gif" WIDTH="1" HEIGHT="12" BORDER="0"></TD>
+  </TR>
+  
+<!-- FOOTER ROW -->
+  
+  <TR VALIGN="TOP"> 
+    <TD BGCOLOR="#990000"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_red.gif" WIDTH="1" HEIGHT="36"></TD>
+    <TD COLSPAN="3">
+    
+    <FORM action="http://web.archive.org/web/20000510124544/http://www.usc.edu/search97cgi/s97_cgi" METHOD=POST>
+	<input type=hidden name="action" value="search">
+	<input type=hidden name="collection" value="quickfind">
+	<input type=hidden name="ResultTemplate" value="Work/ipc/quickfind.hts">
+	<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="598">
+    <TR>
+    
+<MAP NAME="USCwebFoot">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/uscweb/index/" COORDS="287,0,330,20">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/uscweb/search/" COORDS="235,0,283,20">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?help" COORDS="194,0,230,20">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/index.html" COORDS="137,0,190,20">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?contact" COORDS="13,0,84,20">
+</MAP>
+
+    <TD><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/USCwebFoot.gif" WIDTH="330" HEIGHT="20" USEMAP="#USCwebFoot" BORDER="0"></TD>
+    <TD ALIGN="RIGHT"><INPUT SIZE="20" NAME="querytext" TYPE="text"></TD>
+    <TD ALIGN=RIGHT><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="10" HEIGHT="10"><INPUT TYPE="image" name="submit" action="submit" SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/Find.gif" BORDER="0"></TD>
+    </TR></TABLE>
+    </FORM>
+    
+    </TD>
+	<TD BGCOLOR="#990000"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_red.gif" WIDTH="1" HEIGHT="36"></TD>
+</TR>
+
+
+<!-- BOTTOM BAR ROW -->
+
+  <TR> 
+    <TD COLSPAN="5"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/BottomBar.gif" WIDTH="601 HEIGHT="4"></TD>
+  </TR>
+</TABLE>
+
+<!-- SITE LINKS ROW -->
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="601">
+<TR><TD VALIGN="TOP" COLSPAN="2"><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="601" HEIGHT="12" BORDER="0"></TD></TR>
+<TR><TD VALIGN="TOP" ALIGN=RIGHT><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="72" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial" COLOR="CCCC99">SiteLinks:&nbsp;&nbsp;&nbsp;</TD>
+
+<TD ALIGN=LEFT><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="428" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial" COLOR="CCCC99"><A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/students/admission/"><FONT COLOR="#EBB300">Admission</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/schools/"><FONT COLOR="#EBB300">Schools & Programs</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/academe/"><FONT COLOR="#EBB300">Research, Libraries, Computing</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/students/"><FONT COLOR="#EBB300">Student Life & Services</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/health/"><FONT COLOR="#EBB300">Health Care</FONT></A>
+<BR><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="410" HEIGHT="3" BORDER="0"><BR>
+<A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/welcome.html"><FONT COLOR="#EBB300">Welcome</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/news.html"><FONT COLOR="#EBB300">News</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/arts.html"><FONT COLOR="#EBB300">Arts & Culture</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/alumni_access.html"><FONT COLOR="#EBB300">Alumni Access</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/friends.html"><FONT COLOR="#EBB300">Friends & Neighbors</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/world.html"><FONT COLOR="#EBB300">International</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usctrojans.com/"><FONT COLOR="#EBB300">SC Sports</FONT></A>
+<BR><IMG SRC="http://web.archive.org/web/20000510124544im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="410" HEIGHT="3" BORDER="0"><BR>
+<A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?contact"><FONT COLOR="#EBB300">Contact USC</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/directories.html"><FONT COLOR="#EBB300">Directories</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/info/maps/"><FONT COLOR="#EBB300">Maps & Directions</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/admin/index.html"><FONT COLOR="#EBB300">Inside USC</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?help"><FONT COLOR="#EBB300">HELP</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/uscweb/search/index.html"><FONT COLOR="#EBB300">SEARCH</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/uscweb/index/index.html"><FONT COLOR="#EBB300">INDEX</FONT></A> | <A HREF="http://web.archive.org/web/20000510124544/http://www.usc.edu/"><FONT COLOR="#EBB300">USCweb</FONT></A></FONT>
+</TD>
+</TR>
+</TABLE>
+<PRE>&nbsp;</PRE>
+<!-- USCweb Footer -->
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>IML 400 Presentation</title>
+</head>
+
+<!-- Animated 2000 News -->
+
+<script type="text/javascript" src="http://staticweb.archive.org/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="http://staticweb.archive.org/js/graph-calc.js" ></script>
+<script type="text/javascript" src="http://staticweb.archive.org/jflot/jquery.min.js" ></script>
+<script type="text/javascript"> </script>
+
+<MAP NAME="Sections">
+	<AREA COORDS="9,15,176,48" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/students/admission/">
+	<AREA COORDS="8,73,163,93" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/schools/">
+	<AREA COORDS="9,97,222,119" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/academe/">
+	<AREA COORDS="10,122,189,144" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/students/">
+	<AREA COORDS="9,149,222,169" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/academe/academic_life.html">
+	<AREA COORDS="12,193,177,219" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/health/">
+</MAP>

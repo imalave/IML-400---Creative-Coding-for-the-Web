@@ -1,0 +1,66 @@
+
+<HTML>
+<HEAD>
+<TITLE>IML 400 Web Presentation</TITLE>
+
+<style type="text/css">
+	#Students{
+		background-color: #EBB300;
+		font-color: "red";
+		height: 200px;
+		width: 150px;
+		float: center;
+	}
+</style>
+
+</HEAD>
+
+<BODY BACKGROUND="http://www.spacetweaks.net/graphics/backgrounds/marble2/marble_138.jpg" link="#FF0000" vlink="#9C000A" alink="#000000">
+
+
+ <CENTER>
+<!-- <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="588">
+  <TR VALIGN="TOP"> 
+    <TD COLSPAN="7"><NOBR><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/news.html"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopNews.gif" WIDTH="175" HEIGHT="20" BORDER="0"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/info/NewsHeadlines.gif" WIDTH="382" HEIGHT="20" BORDER="0" ALT="TOP NEWS HEADLINES"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/NewsCap.gif" WIDTH="31" HEIGHT="20" BORDER="0"></A></NOBR></TD>
+  </TR>
+</TABLE>
+ -->
+
+<div id="header" style = "background-color:#FFFFFF; width:550px; height:20px;>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/d7cb4/Chloe_Drulis.html/">Our Inspiration</a><br><br>
+</div>
+
+<div id="container" style="width:550px">
+
+<div id="students" style="background-color:#EBB300;height:220px;width:100px;float:left;">
+<Center><b>About Us</b></Center>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/d7cb4/Chloe_Drulis.html/">Chloe Drulis</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/936c6/Ian_Malave.html/">Ian Malave</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/1990b/Kimberly_Morris.html/">Kimberly Morris</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/7f51a/Libby_Coy.html/">Libby Coy</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/6319d/Timothy_Huang.html/">Timothy Huang</a><br><br>
+</div>
+
+<div id="more" style ="float:left;">
+<img alt="" src="http://www.bestuscdentist.com/usc%20logo.gif" height="100" width="100">
+</div>
+
+
+<div id="content" style="background-color:#EEEEEE;height:220px;width:200px;float:left;">
+<Center><b>The Presentation</b></Center><br>
+<a href="Overview.html">Overview</a><br><br>
+<a href="Usage.html">Usage</a><br><br>
+<a href="Technology.html">Technology</a><br><br>
+<a href="PopularSites.html">Popular Sites</a><br><br>
+<a href="BigEvents.html">Big Events</a><br><br>
+</div>
+
+
+</div>
+
+</CENTER>
+</BODY>
+
+</HTML>
+
+

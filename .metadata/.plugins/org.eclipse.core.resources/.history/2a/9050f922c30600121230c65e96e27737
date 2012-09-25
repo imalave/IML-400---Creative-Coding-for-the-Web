@@ -1,0 +1,287 @@
+
+<HTML>
+<HEAD>
+<TITLE>IML 400 Web Presentation</TITLE>
+</HEAD>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+
+
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px; z-index:9000;">
+<div id="wm-ipp-inside" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(http://staticweb.archive.org/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;min-width:110px;">
+   <a href="http://wayback.archive.org/web/" title="Wayback Machine home page" style="background-color:transparent;border:none;"><img src="http://staticweb.archive.org/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0"/></a>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;width:100%;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="http://wayback.archive.org/web/form-submit.jsp" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="http://www.usc.edu/" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;" onfocus="javascript:this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20000511015055" /><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="http://web.archive.org/web/20000303134327/http://www.usc.edu/" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="3 Mar 2000"><strong>MAR</strong></a>
+		                
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 1:50:55 May 11, 2000">MAY</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="http://web.archive.org/web/20000619114730/http://www.usc.edu/" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="19 Jun 2000"><strong>JUN</strong></a>
+		                
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="http://web.archive.org/web/20000510201842/http://www.usc.edu/" title="20:18:42 May 10, 2000" style="background-color:transparent;border:none;"><img src="http://staticweb.archive.org/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+		                
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 1:50:55 May 11, 2000">11</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="http://web.archive.org/web/20000511093332/http://www.usc.edu/" title="9:33:32 May 11, 2000" style="background-color:transparent;border:none;"><img src="http://staticweb.archive.org/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0"/></a>
+		                
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="http://web.archive.org/web/19990507201441/http://www.usc.edu/" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="7 May 1999"><strong>1999</strong></a>
+		                
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 1:50:55 May 11, 2000">2000</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="http://web.archive.org/web/20010515060304/http://www.usc.edu/" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="15 May 2001"><strong>2001</strong></a>
+		                
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="http://wayback.archive.org/web/20000511015055*/http://www.usc.edu/" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>1,501 captures</strong></a>
+           <div style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">23 Dec 96 - 19 Jul 11</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:450px;height:27px;" href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:450px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="450"
+				height="27"
+				border="0"
+				src="http://wayback.archive.org/web/jsp/graph.jsp?graphdata=450_27_1996:-1:000000000002_1997:-1:000000000001_1998:-1:100010000001_1999:-1:020210000000_2000:4:023273388703_2001:-1:1368621008e8_2002:-1:100021112340_2003:-1:020202100413_2004:-1:20011ab9b9a9_2005:-1:abbbcddfbacc_2006:-1:b94a57689356_2007:-1:7756775bba12_2008:-1:132636228858_2009:-1:685234553650_2010:-1:254786583786_2011:-1:88437a300000_2012:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="http://staticweb.archive.org/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="http://staticweb.archive.org/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(http://staticweb.archive.org/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:23px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="display:block;padding-right:18px;background:url(http://staticweb.archive.org/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<MAP NAME="Sections">
+	<AREA COORDS="9,15,176,48" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/students/admission/">
+	<AREA COORDS="8,73,163,93" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/schools/">
+	<AREA COORDS="9,97,222,119" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/academe/">
+	<AREA COORDS="10,122,189,144" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/students/">
+	<AREA COORDS="9,149,222,169" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/academe/academic_life.html">
+	<AREA COORDS="12,193,177,219" SHAPE="rect" HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/health/">
+</MAP>
+
+<MAP NAME="Inside">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/directories.html" COORDS="13,1,77,22">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/admin/index.html" COORDS="363,1,575,23">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/maps" COORDS="160,1,259,23">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/images/" COORDS="263,1,305,23">
+</MAP>
+
+<BODY BGCOLOR="#623805" BACKGROUND="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/BKG.jpg" TEXT="#CCCC99" LINK="#EBB300" VLINK="#EBB300" ALINK="#CC0000" MARGINHEIGHT="9" MARGINWIDTH="9" TOPMARGIN="9" LEFTMARGIN="9">
+
+
+<CENTER>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="588">
+  <TR VALIGN="TOP"> 
+    <TD COLSPAN="7"><NOBR><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/news.html"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopNews.gif" WIDTH="175" HEIGHT="20" BORDER="0"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/info/NewsHeadlines.gif" WIDTH="382" HEIGHT="20" BORDER="0" ALT="TOP NEWS HEADLINES"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/NewsCap.gif" WIDTH="31" HEIGHT="20" BORDER="0"></A></NOBR></TD>
+  </TR>
+  <TR VALIGN="TOP"> 
+    <TD ROWSPAN="6" BGCOLOR="#990000"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_red.gif" WIDTH="1" HEIGHT="320"></TD>
+    <TD COLSPAN="5"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="580" HEIGHT="9"></TD>
+    <TD ROWSPAN="6" BGCOLOR="#990000"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_red.gif" WIDTH="1" HEIGHT="320"></TD>
+  </TR>
+  
+    <MAP NAME="leftmap">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/world.html" COORDS="0,0,59,59">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/arts.html" COORDS="0,60,59,117">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/about/alumni.html" COORDS="0,119,59,176">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/about/spirit.html" COORDS="0,178,59,237">
+			</MAP><MAP NAME="rightmap">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/about/history.html" COORDS="0,0,59,59">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/about/students.html" COORDS="0,60,59,117">
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/about/tommy/tommy2.html" COORDS="0,119,59,176"> 
+				<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/about/HSC.html" COORDS="0,178,59,237">
+			</MAP>
+
+<MAP NAME="Welcome">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/welcome/welcome4.html" COORDS="1,13,112,36">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/news.html" COORDS="1,37,112,62">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/arts.html" COORDS="1,63,112,89">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/alumni_access.html" COORDS="2,102,111,126">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/friends.html" COORDS="2,126,111,162">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/world.html" COORDS="3,163,112,189">
+	<AREA SHAPE=rect HREF="http://web.archive.org/web/20000511015055/http://www.usctrojans.com/" COORDS="4,204,115,227">
+</MAP>
+
+  <TR VALIGN="TOP"> 
+	<TD><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopDoubleRule.gif" WIDTH="115" HEIGHT="9"><BR><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/Welcome.gif" ALT="Welcome, News, Arts, Alumni, Friends, International, Sports -- See text links below" WIDTH="115" HEIGHT="237" BORDER="0" USEMAP="#Welcome"></TD>
+    <TD><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopDoubleRule.gif" WIDTH="59" HEIGHT="9"><BR><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/images/home/left2.gif" WIDTH=59 HEIGHT=237 USEMAP="#leftmap" BORDER=0></TD>
+    <TD><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/commencement"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/images/home/commencement4.gif" WIDTH=120 HEIGHT=94 BORDER=0><BR></A><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/welcome/welcome4.html"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/Logo.gif" WIDTH="120" HEIGHT="152" BORDER="0"></A></TD>
+    <TD><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopDoubleRule.gif" WIDTH="59" HEIGHT="9"><BR><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/images/home/right2.gif" WIDTH=59 HEIGHT=237 USEMAP="#rightmap" BORDER=0></TD>
+    <TD><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopDoubleRule.gif" WIDTH="233" HEIGHT="9"><BR><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/Sections.gif" ALT="Admission, Schools and Programs, Research, Libraries, Computing, Health and Patient Care -- See text links below" WIDTH="233" HEIGHT="237" BORDER="0" USEMAP="#Sections"></TD>
+  </TR>
+
+
+  <TR VALIGN="TOP"> 
+    <TD COLSPAN="5"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/InsideBar.gif" WIDTH="586" HEIGHT="23" USEMAP="#Inside" BORDER="0" ALT="See Links at the bottom of the page"></TD>
+  </TR>
+  
+  <TR VALIGN="TOP"> 
+    <TD COLSPAN="5"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="586" HEIGHT="10"></TD>
+  </TR>
+  <TR VALIGN="TOP"> 
+  
+    <FORM action="http://web.archive.org/web/20000511015055/http://www.usc.edu/search97cgi/s97_cgi" METHOD=POST>
+	<input type=hidden name="action" value="search">
+	<input type=hidden name="collection" value="quickfind">
+	<input type=hidden name="ResultTemplate" value="Work/quickfind.hts">
+    <TD COLSPAN="5">
+	<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="586">
+    <TR>
+    <TD><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/USCwebFoot.gif" WIDTH="330" HEIGHT="20" USEMAP="#USCwebFoot" BORDER="0"></TD>
+    <TD ALIGN="RIGHT"><INPUT SIZE="20" NAME="querytext" TYPE="text"></TD>
+    <TD ALIGN=RIGHT><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="10" HEIGHT="10"><INPUT TYPE="image" name="submit" action="submit" SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/Find.gif" BORDER="0"></TD>
+    </TR></TABLE>
+    <IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="586" HEIGHT="12">
+    </TD></TR></TABLE>
+    <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="588">
+	<TR>
+    <TD><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/BottomBar.gif" WIDTH="588" HEIGHT="4"></TD>
+  </TR>
+</TABLE>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="588">
+<TR><TD VALIGN="TOP" ALIGN=RIGHT><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="175" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial">QuickLinks:&nbsp;&nbsp;&nbsp;</TD>
+
+<TD ALIGN=LEFT><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="413" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial">
+<A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/calendar">Calendar</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/catalogue">Catalogue</A> & <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/soc">Schedule of Classes</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/bookstores">Bookstores</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/oasis">OASIS</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/friends.html">Supporting USC</A> <BR>
+<IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="410" HEIGHT="3" BORDER="0"><BR> <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/scampus/emergency">Emergency Info</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/jobs">Jobs at USC</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/publications.html">Publications & Media</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/tommycam">TommyCam</A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/webcast">USC Webcast</A></FONT></TD>
+
+</TR></TABLE>
+<IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="588" HEIGHT="12" BORDER="0">
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="588">
+	<TR>
+	<TD VALIGN="TOP" ROWSPAN="3"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="175" HEIGHT="1" BORDER="0"></TD>
+	<TD VALIGN="TOP" COLSPAN="2"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/BKG-Rule.gif" WIDTH="413" HEIGHT="2" BORDER="0" VSPACE="9"></TD>
+	<TR>	
+		<TD VALIGN="TOP"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="206" HEIGHT="1" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial">
+<A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/snailmail.html">University Park Campus<BR>Los Angeles, California 90089</A> <BR> <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/directories/">(213) 740-2311</A><P>
+</TD>
+		<TD VALIGN="TOP"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="206" HEIGHT="1" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial">
+<A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/snailmail.html">Health Sciences Campus<BR>Los Angeles, California 90033</A> <BR> <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/directories/">(323) 442-2000</A><P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="413" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial">
+Copyright &copy; 2000  University of Southern California. All RIGHTS RESERVED.<BR>
+All trademarks mentioned herein belong to their respective owners.<BR>
+
+<IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="413" HEIGHT="12" BORDER="0"><BR>
+<A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/dmca">USC Copyright Compliance</A>&nbsp;&nbsp;|&nbsp;&nbsp;<A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/new/">New on USCweb</A>&nbsp;&nbsp;|&nbsp;&nbsp;<A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?contact">Contact USCweb Administration</A>
+</TD>
+	</TR>
+</TABLE>
+<IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="588" HEIGHT="12" BORDER="0">
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="588">
+<TR><TD VALIGN="TOP" COLSPAN="2"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/BKG-Rule.gif" WIDTH="588" HEIGHT="2" BORDER="0"></TD></TR>
+
+<TR><TD VALIGN="TOP" ALIGN=RIGHT><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="72" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial">SiteLinks:&nbsp;&nbsp;&nbsp;</TD>
+
+<TD ALIGN=LEFT><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="428" HEIGHT="12" BORDER="0"><BR><FONT SIZE="1" FACE="Geneva,Helvetica Narrow,Helvetica,Arial Narrow,Arial" COLOR="CCCC99"><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/students/admission/"><FONT COLOR="#EBB300">Admission</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/schools/"><FONT COLOR="#EBB300">Schools & Programs</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/academe/"><FONT COLOR="#EBB300">Research, Libraries, Computing</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/students/"><FONT COLOR="#EBB300">Student Life & Services</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/academe/academic_life.html"><FONT COLOR="#EBB300">Academic Life</FONT></A>
+<BR><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="410" HEIGHT="3" BORDER="0"><BR><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/welcome.html"><FONT COLOR="#EBB300">Welcome</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/news.html"><FONT COLOR="#EBB300">News</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/arts.html"><FONT COLOR="#EBB300">Arts & Culture</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/alumni_access.html"><FONT COLOR="#EBB300">Alumni Access</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/friends.html"><FONT COLOR="#EBB300">Friends & Neighbors</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/world.html"><FONT COLOR="#EBB300">International</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usctrojans.com/"><FONT COLOR="#EBB300">SC Sports</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/health/"><FONT COLOR="#EBB300">Health Care</FONT></A>
+<BR><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/pixel_clear.gif" WIDTH="410" HEIGHT="3" BORDER="0"><BR><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?contact"><FONT COLOR="#EBB300">Contact USC</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/directories.html"><FONT COLOR="#EBB300">Directories</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/maps/"><FONT COLOR="#EBB300">Maps & Directions</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/admin/index.html"><FONT COLOR="#EBB300">Inside USC</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/help/index.html"><FONT COLOR="#EBB300">HELP</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/search/index.html"><FONT COLOR="#EBB300">SEARCH</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/index/index.html"><FONT COLOR="#EBB300">INDEX</FONT></A> | <A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/"><FONT COLOR="#EBB300">USCweb</FONT></A></FONT>
+</TD>
+</TR>
+</TABLE>
+
+<MAP NAME="USCwebFoot">
+	<AREA SHAPE=RECT HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/index/index.html" COORDS="287,0,330,20">
+	<AREA SHAPE=RECT HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/search/" COORDS="235,0,283,20">
+	<AREA SHAPE=RECT HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?help" COORDS="194,0,230,20">
+	<AREA SHAPE=RECT HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/uscweb/index.html" COORDS="137,0,190,20">
+	<AREA SHAPE=RECT HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/cgi-bin/ipc/uscwebhelp.pl?contact" COORDS="13,0,84,20">
+</MAP>
+
+
+
+</CENTER></FORM>
+</BODY>
+
+</HTML>
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 1:50:55 May 11, 2000 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:21:49 Sep 25, 2012.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

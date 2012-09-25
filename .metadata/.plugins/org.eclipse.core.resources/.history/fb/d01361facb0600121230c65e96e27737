@@ -1,0 +1,65 @@
+
+<HTML>
+<HEAD>
+<TITLE>IML 400 Web Presentation</TITLE>
+
+<style type="text/css">
+	#Students{
+		background-color: #EBB300;
+		font-color: "red";
+		height: 200px;
+		width: 150px;
+		float: center;
+	}
+</style>
+
+</HEAD>
+
+<BODY BACKGROUND="http://www.spacetweaks.net/graphics/backgrounds/marble2/marble_138.jpg" link="#FF0000" vlink="#9C000A" alink="#000000">
+
+
+<CENTER>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="588">
+  <TR VALIGN="TOP"> 
+    <TD COLSPAN="7"><NOBR><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/news.html"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopNews.gif" WIDTH="175" HEIGHT="20" BORDER="0"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/info/NewsHeadlines.gif" WIDTH="382" HEIGHT="20" BORDER="0" ALT="TOP NEWS HEADLINES"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/NewsCap.gif" WIDTH="31" HEIGHT="20" BORDER="0"></A></NOBR></TD>
+  </TR>
+</TABLE>
+
+<div id = "Container">
+<div id="Students">
+<Center><b>About Us</b></Center>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/d7cb4/Chloe_Drulis.html/">Chloe Drulis</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/936c6/Ian_Malave.html/">Ian Malave</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/1990b/Kimberly_Morris.html/">Kimberly Morris</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/7f51a/Libby_Coy.html/">Libby Coy</a><br><br>
+<a href="http://xwiki.usc.edu/groups/iml40037430fall2012/wiki/6319d/Timothy_Huang.html/">Timothy Huang</a><br><br>
+</div>
+
+
+<div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
+Content goes here</div>
+
+</div>
+
+<div id="container" style="width:500px">
+
+<div id="header" style="background-color:#FFA500;">
+<h1 style="margin-bottom:0;">Main Title of Web Page</h1></div>
+
+<div id="menu" style="background-color:#FFD700;height:200px;width:100px;float:left;">
+<b>Menu</b><br>
+HTML<br>
+CSS<br>
+JavaScript</div>
+
+<div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
+Content goes here</div>
+</div>
+
+
+</CENTER>
+</BODY>
+
+</HTML>
+
+

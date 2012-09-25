@@ -1,0 +1,30 @@
+
+<HTML>
+<HEAD>
+<TITLE>IML 400 Web Presentation</TITLE>
+
+<style type="text/css"></style>
+	#Students{
+	
+	}
+</HEAD>
+
+<BODY BACKGROUND="http://www.spacetweaks.net/graphics/backgrounds/marble2/marble_138.jpg">
+
+
+<CENTER>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="588">
+  <TR VALIGN="TOP"> 
+    <TD COLSPAN="7"><NOBR><A HREF="http://web.archive.org/web/20000511015055/http://www.usc.edu/info/news.html"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/TopNews.gif" WIDTH="175" HEIGHT="20" BORDER="0"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/info/NewsHeadlines.gif" WIDTH="382" HEIGHT="20" BORDER="0" ALT="TOP NEWS HEADLINES"><IMG SRC="http://web.archive.org/web/20000511015055im_/http://www.usc.edu/gui/NewsCap.gif" WIDTH="31" HEIGHT="20" BORDER="0"></A></NOBR></TD>
+  </TR>
+</TABLE>
+
+<div id="Students">
+This section will be used to link to student profiles.
+</div>
+
+
+</CENTER>
+</BODY>
+
+</HTML>
